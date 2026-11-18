@@ -1,6 +1,10 @@
 # World News — 18 November 2026
 
-make.fun bounty [news-image-20261118](https://make.fun/bounty/news-image-20261118): sum up the world's news of Wednesday 18 November 2026 in one image. $250 over 50 places, free entry.
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/bayujahida2/make-fun-news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/bayujahida2/make-fun-news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+make.fun bounty [news-image-20261118](https://make.fun/bounty/news-image-20261118): sum up the world's news of Wednesday 18 November 2026 in one image. $250 over 50 places, free entry. New to make.fun? Join with my referral link: https://make.fun/r/0q7mm1bq
 
 ## The image
 
